@@ -81,7 +81,7 @@ After a week of collecting data, I standardized the “why” column (e.g., “t
 [I uploaded the resulting data to Google My Maps](https://www.google.es/maps/d/u/0/edit?mid=1Es_1ItoBFE1IKFXyBiMWJW_ZFmYa27k&ll=41.38895722155954%2C2), where each pin on the map represents an instance of phone use. The pins are color coded by the reason I opened my phone. 
 
 Here is a summary of how many times I used my phone for each category:
-<img src="images/phone-usage-chart.png" alt="Data visualization showing phone usage # per category" width="600">
+<img src="images/phone-usage-chart.jpg" alt="Data visualization showing phone usage # per category" width="600">
 
 The URL at the bottom of each pin is a photo of what my surroundings looked like when my attention went to my phone. 
 
