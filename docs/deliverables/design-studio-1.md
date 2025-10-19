@@ -2,13 +2,15 @@
 
 ## Overview
 
-This is my deliverable for Design Studio 1, due on October 20th. 
+For one week, I logged every single time that I interacted with my phone in an attempt to get a deeper understanding of my phone as an object of my attention. Below is an interactive map that serves as a spatial visualization of this, showing where and why I used my phone across the week. Each pin represents an instance of phone use, and the pins are color coded by the reason why I opened my phone. Click the top left toggle to see the color code. The URL at the bottom of each pin is a photo of what my surroundings looked like when my attention went to my phone. 
+
+Underneath the map is a short video essay I created made entirely of images, videos, audio, and songs that I captured immediately after opening my phone throughout the week. If you hear something, whether it is a random conversation or a bossa nova song, it was playing during a video, an audio recording, or while I was recording my screen.
 
 ## Interactive Map
 
 <iframe src="https://www.google.es/maps/d/u/0/embed?mid=1Es_1ItoBFE1IKFXyBiMWJW_ZFmYa27k&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-## Video Presentation
+## Video Essay
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1128651007?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="AttentionLog Video (v2)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -107,18 +109,6 @@ Tracking follow-up activity could clarify whether these instances led to more sc
 ![Description of image 1](images/deliverable1-image1.jpg)
 ![Description of image 2](images/deliverable1-image2.jpg)
 
-### Video
-
-*Embed your video here. You can use HTML for YouTube/Vimeo embeds:*
-
-<iframe width="560" height="315" src="https://vimeo.com/1128651007?share=copy&fl=sv&fe=ci" frameborder="0" allowfullscreen></iframe>
-
-*Or for local videos:*
-
-<video width="560" height="315" controls>
-  <source src="videos/design-studio-1-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Links and Resources
 
