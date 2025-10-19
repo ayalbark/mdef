@@ -13,6 +13,8 @@ nav:
   - About: about/me.md
   - Master project:
       - Initial ideas: project/project.md
+  - Deliverables:
+      - Design Studio 1 (Oct 20): deliverables/design-studio-1.md
   - Reflections :
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
