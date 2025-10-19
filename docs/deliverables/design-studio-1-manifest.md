@@ -12,113 +12,87 @@ Micro-grids. Handstands. Capoeira. Music. Making Music. Micro farming. Urban far
 
 ## Dance Class
 
-For a moment or two
+For a moment or two  
+I knew  
+The feeling of  
+weightlessness  
+Of utter disregard  
+For the eyes outside  
+My own  
 
-I knew
-
-The feeling of 
-
-weightlessness
-
-Of utter disregard 
-
-For the eyes outside
-
-My own
-
-
-If only for a moment 
-
+If only for a moment  
 You taught me  
-
-To love is to live
-
-And to live is to
-
-Let yourself die
-
-In one hundred 
-
+To love is to live  
+And to live is to  
+Let yourself die  
+In one hundred  
 Little ways 
 
-Each day 
+Each day  
+So when you dance  
+You're not weighed  
+Down by the thoughts  
+You don't need  
 
-So when you dance
-
-You’re not weighed 
-
-Down by the thoughts
-
-You don’t need
-
-
-It's better to walk
-
-on the beach 
-
-by yourself 
-
-or in good company
-
-and throw little rocks 
-
-onto the sand
-
-in front of you
-
-and watch the water
-
+It's better to walk  
+on the beach  
+by yourself  
+or in good company  
+and throw little rocks  
+onto the sand  
+in front of you  
+and watch the water  
 wash them away.
 
 
 ## Toni 
-Four years ago I sat in my living room 
-staring at my mom.
-Her black and gray mane of hair laid silently 
-with a purple daffodil behind her ear.
+Four years ago I sat in my living room  
+staring at my mom.  
+Her black and gray mane of hair laid silently  
+with a purple daffodil behind her ear.  
 
-Four weeks earlier we had been dancing
-in the same exact room,
-in the same exact spot,
-Sans medical equipment and hospital bed.
+Four weeks earlier we had been dancing  
+in the same exact room,  
+in the same exact spot,  
+Sans medical equipment and hospital bed.  
 
-The floor still remembered our steps.
-And I could see her swaying side to side,
-Spinning in circles while her dress 
-Tried to keep up.
+The floor still remembered our steps.  
+And I could see her swaying side to side,  
+Spinning in circles while her dress  
+Tried to keep up.  
 
-Four years ago I sat wondering 
-if I had ever seen my mom so still.
-She paraglided over the French Alps.
-She biked the Great Wall of China.
-She belly danced through medical school.
+Four years ago I sat wondering  
+if I had ever seen my mom so still.  
+She paraglided over the French Alps.  
+She biked the Great Wall of China.  
+She belly danced through medical school.  
 
-And here she was,
-Silent with the weight of death on her eyes,
-Beautiful as always.
-Persephone returning to the garden of Hades.
+And here she was,  
+Silent with the weight of death on her eyes,  
+Beautiful as always.  
+Persephone returning to the garden of Hades.  
 
-Four years ago I sat and prayed 
-that I would never forget the touch of her hand on my shoulder,
-that I would never forget the sound of her voice 
-echoing through the house,
-that I would always remember her smile.
+Four years ago I sat and prayed  
+that I would never forget the touch of her hand on my shoulder,  
+that I would never forget the sound of her voice  
+echoing through the house,  
+that I would always remember her smile.  
 
-The further one gets from death the more it feels 
-like a postcard.
-The more it feels like it came from somewhere far away,
-by a hand other than your own.
-With a message written in ink that stains your fingers
-and the fingers of its author.
+The further one gets from death the more it feels  
+like a postcard.  
+The more it feels like it came from somewhere far away,  
+by a hand other than your own.  
+With a message written in ink that stains your fingers  
+and the fingers of its author.  
 
-Every once in a while I take the postcard out of my drawer 
-and stare at it silently.
-It’s written in a language I can’t understand.
+Every once in a while I take the postcard out of my drawer  
+and stare at it silently.  
+It's written in a language I can't understand.  
 
-On the other side of the postcard is a picture 
-of the waves washing away the shore,
-and if I look close enough 
-I can see something written in the sand.
+On the other side of the postcard is a picture  
+of the waves washing away the shore,  
+and if I look close enough  
+I can see something written in the sand.  
 It's almost been washed away,
 but I can still feel the touch of her hand on my shoulder.
 
