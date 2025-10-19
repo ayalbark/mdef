@@ -4,6 +4,14 @@
 
 This is my deliverable for Design Studio 1, due on October 20th. 
 
+## Interactive Map
+
+<iframe src="https://www.google.es/maps/d/u/0/embed?mid=1Es_1ItoBFE1IKFXyBiMWJW_ZFmYa27k&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+
+## Video Presentation
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1128651007?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="AttentionLog Video (v2)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ## Process Documentation
 
 **1. Context & Motivation**
@@ -18,7 +26,7 @@ Approach: 1PP (first-person perspective), where I am both the subject and the re
 
 Duration: One week (October 11–18, 2025).
 
-Method: Self-tracking experiment using a custom iPhone Shortcut to log contextual and intentional data every time I opened my phone.
+Method: Self-tracking experiment using a custom iPhone Shortcut to log contextual and intentional data every single time I interacted with my phone, even if it was just to check the time.
 
 **Tools:**
 
@@ -54,15 +62,42 @@ Every time I opened my phone and ran the Shortcut, it automatically:
 
 **4. Data Processing**
 
-After collecting data, I standardized the “why” column (e.g., “txt,” “text,” and “whatsapp” all categorized under “messaging”).
+After a week of collecting data, I standardized the “why” column (e.g., “txt,” “text,” and “whatsapp” all categorized under “messaging”). Then I 
+uploaded the resulting data to Google My Maps, where each pin on the map represented an instance of phone use: https://www.google.es/maps/d/u/0/edit?mid=1Es_1ItoBFE1IKFXyBiMWJW_ZFmYa27k&ll=41.38895722155954%2C2.1959504136691166&z=15
 
-Uploaded the resulting data to Google My Maps, where each point on the map represented an instance of phone use.
-
-Color coding was used to differentiate categories of “why.”
+I color coded was used to differentiate categories of “why.”
 
 The final map served as a spatial visualization of attention, showing where and why I used my phone across the week.
 
+**5. Limitations**
 
+Shortcut app did not always function properly (occasional failed runs for unknown reasons).
+
+Required internet connection to log coordinates — failed or delayed on trains or airplane mode.
+
+Manual activation meant I sometimes forgot to run it, especially early in the week.
+
+Being both researcher and subject likely biased my behavior; the act of observation changed my phone use patterns.
+
+Only logged instances of opening the phone, not duration of use.
+
+Lacked data on secondary usage drift (e.g., opening for messaging, then doomscrolling).
+
+Future iteration could check in at intervals (30s/1min) to capture evolving intent.
+
+Google My Maps limitation: could not display inline images — only clickable URLs.
+
+**6. Observations** 
+
+“Messaging,” “Camera,” and “Clock” accounted for over 50% of total interactions.
+
+Suggests potential benefit of transferring clock/messaging functions to a wearable (Apple Watch) to reduce random engagement.
+
+“Calls” were among the least frequent uses.
+
+“No reason” or “bored” ranked 5th — raises questions about spontaneous, unintentional attention use.
+
+Tracking follow-up activity could clarify whether these instances led to more scattered usage patterns.
 ## Visual Documentation
 
 ### Images
