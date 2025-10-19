@@ -99,33 +99,34 @@ but I can still feel the touch of her hand on my shoulder.
 
 ## Ambrosia 
 There is nothing more satisfying  
-In this world than sitting  
-On a chair that is a tree stump  
-On a sandy road in southern Mexico  
-And hearing the machete  
-Rain down upon the coconut’s husk  
-While the sun boomerangs its ultraviolet  
-Rays at your bare skin covered in  
-Drying salt and a sprinkle of sand  
-And you’re handed the cold coconut  
-In exchange for thirty pesos,  
-The last in your pocket, but it  
-Doesn’t matter as the sweet juice  
-Pours into your open mouth  
+than sitting  
+on a chair that is a tree stump  
+on a sandy road in southern Mexico  
+and hearing the machete  
+rain down upon the coconut's husk  
+while the sun boomerangs its ultraviolet  
+rays at your bare skin covered in  
+drying salt and a sprinkle of sand  
+and you're handed the cold coconut  
+in exchange for thirty pesos,  
+the last in your pocket, but it  
+doesn't matter as the sweet juice  
+pours into your open mouth  
+
 
 ## Laws of Nature
-You’re either eating or being eaten.  
-You’re either fodder for the communal bonfire,  
-Fuel for eternal entropy, or you’re  
-Breaking down raw matter for protein synthesis.  
+You're either eating or being eaten.  
+You're either fodder for the communal bonfire,  
+fuel for eternal entropy, or you're  
+breaking down raw matter for protein synthesis.  
 
 The snake eats its own tail not for the taste,  
-But because there is no other food in a vacuum.  
+but because there is no other food in a vacuum.  
 Are you the mouth or are you the tail?  
 
-Perhaps we’re both at once.  
+Perhaps we're both at once.  
 Agents of destruction constructing new horizons  
-From the ones that slowly rotate out of view.  
+from the ones that slowly rotate out of view.  
 Fill your stomach and let us take a bite.  
 
 
