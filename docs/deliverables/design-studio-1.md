@@ -8,9 +8,7 @@ This is my deliverable for Design Studio 1, due on October 20th.
 
 **1. Context & Motivation**
 
-Personal observation: I often spend attention on my phone in ways that feel unaligned with how I want to be.
-
-The phone functions as both a useful tool and an object of my attention. Often in a way that feels pathological.
+Personal observation: I often spend attention on my phone in ways that feel unaligned with how I want to be. The phone functions as both a useful tool and an object of my attention. Often in a way that feels pathological.
 
 Research goal: explore my phone as the object of attention through a first-person, data-driven approach.
 
@@ -22,35 +20,37 @@ Duration: One week (October 11–18, 2025).
 
 Method: Self-tracking experiment using a custom iPhone Shortcut to log contextual and intentional data every time I opened my phone.
 
-Tools:
+**Tools:**
 
-iPhone
+- iPhone
 
-Apple Shortcuts app
+- Apple Shortcuts app
 
-Google Sheets (for logging data)
+- iCloud (for storing data)
 
-Google My Maps (for visualization)
+- Google Sheets (for logging data)
 
-ChatGPT (for co-developing the Shortcut, uploading the map, and analyzing data; link to conversation for transparency and process documentation: https://chatgpt.com/share/68f4debd-4e98-8009-9876-495a71378d84).
+- Google My Maps (for visualization)
+
+- ChatGPT (for co-developing the Shortcut, uploading the map, and   analyzing data; link to conversation for transparency and process documentation: https://chatgpt.com/share/68f4debd-4e98-8009-9876-495a71378d84)
 
 **3. Data Collection Process**
 
 Every time I opened my phone and ran the Shortcut, it automatically:
 
-(1) Logged date and time.
+**(1)** Logged date and time.
 
-(2) Logged GPS coordinates (latitude and longitude).
+**(2)** Logged GPS coordinates (latitude and longitude).
 
-(3) Asked why I was using my phone (self-reported intent).
+**(3)** Asked why I was using my phone (self-reported intent).
 
-(4) Prompted me to take a photo of my immediate surroundings.
+**(4)** Prompted me to take a photo of my immediate surroundings.
 
-(5) 1/12 of the time: prompted for a video recording.
+**(5)** 1/12 of the time: prompted for a video recording.
 
-(6) 1/12 of the time: prompted for an audio recording.
+**(6)** 1/12 of the time: prompted for an audio recording.
 
-(7) 1/12 of the time: waited 30 seconds, then, if I was still on my phone, prompted a screen recording.
+**(7)** 1/12 of the time: waited 30 seconds, then, if I was still on my phone, prompted a screen recording.
 
 **4. Data Processing**
 
