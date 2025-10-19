@@ -55,7 +55,7 @@ Method: Self-tracking experiment using a custom iPhone Shortcut to log contextua
 - Google My Maps (for visualization)
 
 - ChatGPT (for co-developing Attention Logger, uploading the map, and   analyzing data) 
-  - Link to conversation for transparency and process documentation: https://chatgpt.com/share/68f4debd-4e98-8009-9876-495a71378d84
+  - Link to the conversation is in the "Links and Resources" section at the bottom of the page.
 
 **3. Data Collection Process**
 
@@ -69,11 +69,11 @@ Every time I opened my phone and ran the Shortcut, it automatically:
 
 **(4)** Prompted me to take a photo of my immediate surroundings.
 
-**(5)** 1/12 of the time: prompted for a video recording.
+**(5a)** 1/12 of the time: prompted for a video recording.
 
-**(6)** 1/12 of the time: prompted for an audio recording.
+**(5b)** 1/12 of the time: prompted for an audio recording.
 
-**(7)** 1/12 of the time: waited 30 seconds, then, if I was still on my phone, prompted a screen recording.
+**(5c)** 1/12 of the time: waited 30 seconds, then, if I was still on my phone, prompted a screen recording.
 
 **4. Data Processing**
 
@@ -81,7 +81,7 @@ After a week of collecting data, I standardized the “why” column (e.g., “t
 [uploaded the resulting data to Google My Maps](https://www.google.es/maps/d/u/0/edit?mid=1Es_1ItoBFE1IKFXyBiMWJW_ZFmYa27k&ll=41.38895722155954%2C2), where each pin on the map represents an instance of phone use. The pins are color coded by the reason I opened my phone. 
 
 Here is a summary of how many times I used my phone for each category:
-![Data visualization showing phone usage # per category](images/phone-usage-chart.jpg)
+![Data visualization showing phone usage # per category](images/phone-usage-chart.png)
 
 The URL at the bottom of each pin is a photo of what my surroundings looked like when my attention went to my phone. 
 
@@ -104,9 +104,13 @@ The final map serves as a spatial visualization of attention, showing where and 
 
 **6. Observations** 
 
-I tried to prompt ChatGPT to process the data for me and get behavioral insights around my phone use. Unfortunately, it kept on crashing and I didn't have the time to run an excel script to parse through the spreadsheet before writing this. I think I'll go back to it if I have some free time later. 
+I tried to prompt ChatGPT to process the data for me and get behavioral insights around my phone use. Unfortunately, it kept on crashing and I didn't have the time to run an excel script to parse through the spreadsheet before writing this. I was curious to see if the time of the day had an effect on the reason my attention went to my phone, if any of the reasons led to bursts of using the phone (measured by a lot of pick ups in a short time frame), and if where I was had an effect on what I used the phone for (more specifically, if I used it for different things at home vs at school vs at a train station, etc) 
+
+I think I'll go revisit these if I have some free time later. 
 
 A few observations:
+
+- I would have really benefitted from the shortcut prompting me every 30-60s after opening my phone to see where my attention had shifted to. There were plenty of times that I opened my phone to send a text and then found myself scrolling Reddit or checking my emails. 
 
 - Messaging, Camera, and Clock accounted for more than 50% of the times my attention went to my phone. I've always hated the idea of an apple watch, but I wonder if using it for the clock and messaging functions would keep me off my phone, and thus less likely to start using it for random things.
 
@@ -118,6 +122,6 @@ A few observations:
 
 *Add your relevant links here:*
 
-- [Project Repository](https://github.com/yourusername/project-name)
-- [External Resource](https://example.com)
-- [Documentation](https://docs.example.com)
+- [AttentionLogger (v2) Apple Shortcut](https://www.icloud.com/shortcuts/af45515ee8d244cdb60e6a28cfb3754a)
+- [Google Sheet that feed the Google My Map](https://docs.google.com/spreadsheets/d/1zmye-VTmhFK7W_nB7XMJ20y3600AFGHI_Bu7LsOOa_k/edit?usp=sharing)
+- [Conversation with ChatGPT](https://chatgpt.com/share/68f4debd-4e98-8009-9876-495a71378d84)
