@@ -111,7 +111,7 @@ and you're handed the cold coconut
 in exchange for thirty pesos,  
 the last in your pocket, but it  
 doesn't matter as the sweet juice  
-pours into your open mouth  
+pours into your open mouth.    
 
 
 ## Laws of Nature
