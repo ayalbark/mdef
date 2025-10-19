@@ -13,11 +13,17 @@ Micro-grids. Handstands. Capoeira. Music. Making Music. Micro farming. Urban far
 ## Dance Class
 
 For a moment or two
+
 I knew
+
 The feeling of 
+
 weightlessness
+
 Of utter disregard 
+
 For the eyes outside
+
 My own
 
 If only for a moment 
