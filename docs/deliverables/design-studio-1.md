@@ -18,23 +18,35 @@ Underneath the map is a short video essay I created made entirely of images, vid
 
 **1. Context & Motivation**
 
-Personal observation: I often spend attention on my phone in ways that feel unaligned with how I want to be. The phone functions as both a useful tool and an object of my attention. Often in a way that feels pathological.
+In the Design Studio 1 course we were given this prompt: 
 
-Research goal: explore my phone as the object of attention through a first-person, data-driven approach.
+* Choose a context of interest (socio-bio-techno-political, both physical and/or digital, etc.). Develop a site-specific research methodology to study this context from a 1PP approach.
+* Develop an audiovisual essay (90s), showing 50 images of your 1PP research defining the field of action of your context of interest
+        * Explain your methodology: how, where, why
+
+I had started that class by sharing this design bet: "Open-source, 3D-printed biofeedback devices for at-home attention training could increase attention span and sustained focus by 200% without medical intervention".
+
+I didn't feel attached to the design bet, but using attention as my starting point I decided to explore the link between my attention and my phone. 
+
+I feel like how I attend to my phone feels unaligned with how I want to be attending to my phone. My phone functions as a useful tool, but also as a black hole, sucking in my attention when I would rather it be elsewhere.
+
+My research goal was to explore my phone as and object of my attention through a first-person, data-driven approach.
 
 **2. Research Design**
 
-Approach: 1PP (first-person perspective), where I am both the subject and the researcher.
+Approach: 1PP (first-person perspective), where I was both the subject and the researcher.
 
 Duration: One week (October 11–18, 2025).
 
 Method: Self-tracking experiment using a custom iPhone Shortcut to log contextual and intentional data every single time I interacted with my phone, even if it was just to check the time.
 
-**Tools:**
+**Tools I Used:**
 
 - iPhone
 
 - Apple Shortcuts app
+
+- Attention Logger (the shortcut I created to collect the data)
 
 - iCloud (for storing data)
 
@@ -42,17 +54,18 @@ Method: Self-tracking experiment using a custom iPhone Shortcut to log contextua
 
 - Google My Maps (for visualization)
 
-- ChatGPT (for co-developing the Shortcut, uploading the map, and   analyzing data; link to conversation for transparency and process documentation: https://chatgpt.com/share/68f4debd-4e98-8009-9876-495a71378d84)
+- ChatGPT (for co-developing Attention Logger, uploading the map, and   analyzing data) 
+  - Link to conversation for transparency and process documentation: https://chatgpt.com/share/68f4debd-4e98-8009-9876-495a71378d84
 
 **3. Data Collection Process**
 
 Every time I opened my phone and ran the Shortcut, it automatically:
 
-**(1)** Logged date and time.
+**(1)** Logged the date and time.
 
-**(2)** Logged GPS coordinates (latitude and longitude).
+**(2)** Logged my GPS coordinates (latitude and longitude).
 
-**(3)** Asked why I was using my phone (self-reported intent).
+**(3)** Asked why I was using my phone (which I then filled in manually).
 
 **(4)** Prompted me to take a photo of my immediate surroundings.
 
@@ -64,12 +77,13 @@ Every time I opened my phone and ran the Shortcut, it automatically:
 
 **4. Data Processing**
 
-After a week of collecting data, I standardized the “why” column (e.g., “txt,” “text,” and “whatsapp” all categorized under “messaging”). Then I 
-uploaded the resulting data to Google My Maps, where each pin on the map represented an instance of phone use: https://www.google.es/maps/d/u/0/edit?mid=1Es_1ItoBFE1IKFXyBiMWJW_ZFmYa27k&ll=41.38895722155954%2C2.1959504136691166&z=15
+After a week of collecting data, I standardized the “why” column (e.g., “txt,” “text,” and “whatsapp” all categorized under “messaging”). Then, I 
+uploaded the resulting data to Google My Maps, where each pin on the map represents an instance of phone use: https://www.google.es/maps/d/u/0/edit?mid=1Es_1ItoBFE1IKFXyBiMWJW_ZFmYa27k&ll=41.38895722155954%2C2.1959504136691166&z=15. The pins are color coded by the reason I opened my phone. The URL at the bottom of each pin is a photo of what my surroundings looked like when my attention went to my phone. 
 
-I color coded was used to differentiate categories of “why.”
+The final map serves as a spatial visualization of attention, showing where and why I used my phone across the week. Feel free to look around!
 
-The final map served as a spatial visualization of attention, showing where and why I used my phone across the week.
+Here is some birds-eye view data:
+![Data visualization showing phone usage patterns](images/phone-usage-chart.jpg)
 
 **5. Limitations**
 
@@ -91,6 +105,8 @@ Google My Maps limitation: could not display inline images — only clickable UR
 
 **6. Observations** 
 
+I tried to prompt ChatGPT to process the data for me and get behavioral insights around my phone use. Unfortunately, it kept on crashing and I didn't have the time to run an excel script to parse through the spreadsheet before writing this. I think I'll go back to it if I have some free time later. 
+ 
 “Messaging,” “Camera,” and “Clock” accounted for over 50% of total interactions.
 
 Suggests potential benefit of transferring clock/messaging functions to a wearable (Apple Watch) to reduce random engagement.
@@ -101,6 +117,12 @@ Suggests potential benefit of transferring clock/messaging functions to a wearab
 
 Tracking follow-up activity could clarify whether these instances led to more scattered usage patterns.
 ## Visual Documentation
+
+- Messaging, Camera, and Clock accounted for more than 50% of the times my attention went to my phone. I've always hated the idea of an apple watch, but I wonder if using it for the clock and messaging functions would keep me off my phone, and thus less likely to start using it for random things.
+
+- Using my phone to call was one of the lowest on there. That surprised me.
+
+- Using my phone for "no reason" which also included "bored" was the 5th most common reason. I wish I was able to track usage after opening because I am curious if it also led to the most random usage afterwards
 
 ### Images
 
