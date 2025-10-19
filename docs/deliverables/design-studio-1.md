@@ -111,7 +111,7 @@ Tracking follow-up activity could clarify whether these instances led to more sc
 
 *Embed your video here. You can use HTML for YouTube/Vimeo embeds:*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://vimeo.com/1128651007?share=copy&fl=sv&fe=ci" frameborder="0" allowfullscreen></iframe>
 
 *Or for local videos:*
 
