@@ -26,27 +26,48 @@ For the eyes outside
 
 My own
 
+
 If only for a moment 
+
 You taught me  
+
 To love is to live
+
 And to live is to
+
 Let yourself die
+
 In one hundred 
+
 Little ways 
+
 Each day 
+
 So when you dance
+
 You’re not weighed 
+
 Down by the thoughts
+
 You don’t need
 
+
 It's better to walk
+
 on the beach 
+
 by yourself 
+
 or in good company
+
 and throw little rocks 
+
 onto the sand
+
 in front of you
+
 and watch the water
+
 wash them away.
 
 
