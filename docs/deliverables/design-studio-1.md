@@ -78,10 +78,10 @@ Every time I opened my phone and ran the Shortcut, it automatically:
 **4. Data Processing**
 
 After a week of collecting data, I standardized the “why” column (e.g., “txt,” “text,” and “whatsapp” all categorized under “messaging”). Then, I 
-uploaded the resulting data to Google My Maps, where each pin on the map represents an instance of phone use: https://www.google.es/maps/d/u/0/edit?mid=1Es_1ItoBFE1IKFXyBiMWJW_ZFmYa27k&ll=41.38895722155954%2C2.1959504136691166&z=15. The pins are color coded by the reason I opened my phone. 
+[uploaded the resulting data to Google My Maps](https://www.google.es/maps/d/u/0/edit?mid=1Es_1ItoBFE1IKFXyBiMWJW_ZFmYa27k&ll=41.38895722155954%2C2), where each pin on the map represents an instance of phone use. The pins are color coded by the reason I opened my phone. 
 
 Here is a summary of how many times I used my phone for each category:
-![Data visualization showing phone usage patterns](images/phone-usage-chart.jpg)
+![Data visualization showing phone usage # per category](images/phone-usage-chart.jpg)
 
 The URL at the bottom of each pin is a photo of what my surroundings looked like when my attention went to my phone. 
 
