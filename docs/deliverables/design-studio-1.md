@@ -78,59 +78,41 @@ Every time I opened my phone and ran the Shortcut, it automatically:
 **4. Data Processing**
 
 After a week of collecting data, I standardized the “why” column (e.g., “txt,” “text,” and “whatsapp” all categorized under “messaging”). Then, I 
-uploaded the resulting data to Google My Maps, where each pin on the map represents an instance of phone use: https://www.google.es/maps/d/u/0/edit?mid=1Es_1ItoBFE1IKFXyBiMWJW_ZFmYa27k&ll=41.38895722155954%2C2.1959504136691166&z=15. The pins are color coded by the reason I opened my phone. The URL at the bottom of each pin is a photo of what my surroundings looked like when my attention went to my phone. 
+uploaded the resulting data to Google My Maps, where each pin on the map represents an instance of phone use: https://www.google.es/maps/d/u/0/edit?mid=1Es_1ItoBFE1IKFXyBiMWJW_ZFmYa27k&ll=41.38895722155954%2C2.1959504136691166&z=15. The pins are color coded by the reason I opened my phone. 
+
+Here is a summary of how many times I used my phone for each category:
+![Data visualization showing phone usage patterns](images/phone-usage-chart.jpg)
+
+The URL at the bottom of each pin is a photo of what my surroundings looked like when my attention went to my phone. 
 
 The final map serves as a spatial visualization of attention, showing where and why I used my phone across the week. Feel free to look around!
 
-Here is some birds-eye view data:
-![Data visualization showing phone usage patterns](images/phone-usage-chart.jpg)
-
 **5. Limitations**
 
-Shortcut app did not always function properly (occasional failed runs for unknown reasons).
+- The shortcut app didn’t always work. Sometimes it just didn’t run (I’m not sure why). It also needed an internet connection to log my coordinates, so whenever I was on the train or in airplane mode it either didn’t work or was delayed.
 
-Required internet connection to log coordinates — failed or delayed on trains or airplane mode.
+- Sometimes I just forgot to use it. More so at the beginning of the week than toward the end.
 
-Manual activation meant I sometimes forgot to run it, especially early in the week.
+- Because I had to remember to run it each time (being both the researcher and the subject), I’m sure it biased how I used my phone. It definitely wasn’t a perfect reflection of my baseline behavior before the experiment.
 
-Being both researcher and subject likely biased my behavior; the act of observation changed my phone use patterns.
+- It only tracked when I opened my phone, not how long I was on it for. Time spent on the phone feels like an important data point, and that wasn’t collected at all.
 
-Only logged instances of opening the phone, not duration of use.
+- On a similar note, the app only asked why I opened my phone at the start, but sometimes I’d open it to answer a message and then end up doomscrolling Reddit. It would have been better if the shortcut had checked in every 30 seconds or minute to see if I was still on my phone and asked again what I was doing at that point.
 
-Lacked data on secondary usage drift (e.g., opening for messaging, then doomscrolling).
+- I also wanted it so that when you click on a pin in the map, the picture I took pops up. It turns out that Google My Maps isn’t really good at that, so I had to live with just keeping a clickable URL. Still, I would’ve liked the UX better if it showed the image inline.
 
-Future iteration could check in at intervals (30s/1min) to capture evolving intent.
-
-Google My Maps limitation: could not display inline images — only clickable URLs.
 
 **6. Observations** 
 
 I tried to prompt ChatGPT to process the data for me and get behavioral insights around my phone use. Unfortunately, it kept on crashing and I didn't have the time to run an excel script to parse through the spreadsheet before writing this. I think I'll go back to it if I have some free time later. 
- 
-“Messaging,” “Camera,” and “Clock” accounted for over 50% of total interactions.
 
-Suggests potential benefit of transferring clock/messaging functions to a wearable (Apple Watch) to reduce random engagement.
-
-“Calls” were among the least frequent uses.
-
-“No reason” or “bored” ranked 5th — raises questions about spontaneous, unintentional attention use.
-
-Tracking follow-up activity could clarify whether these instances led to more scattered usage patterns.
-## Visual Documentation
+A few observations:
 
 - Messaging, Camera, and Clock accounted for more than 50% of the times my attention went to my phone. I've always hated the idea of an apple watch, but I wonder if using it for the clock and messaging functions would keep me off my phone, and thus less likely to start using it for random things.
 
 - Using my phone to call was one of the lowest on there. That surprised me.
 
 - Using my phone for "no reason" which also included "bored" was the 5th most common reason. I wish I was able to track usage after opening because I am curious if it also led to the most random usage afterwards
-
-### Images
-
-*Add your images here. You can reference them like this:*
-
-![Description of image 1](images/deliverable1-image1.jpg)
-![Description of image 2](images/deliverable1-image2.jpg)
-
 
 ## Links and Resources
 
@@ -139,14 +121,3 @@ Tracking follow-up activity could clarify whether these instances led to more sc
 - [Project Repository](https://github.com/yourusername/project-name)
 - [External Resource](https://example.com)
 - [Documentation](https://docs.example.com)
-
-## Reflection
-
-*Add your reflections on the deliverable, what you learned, and next steps.*
-
-## Files
-
-*If you have downloadable files, you can link to them:*
-
-- [Design Studio 1 Report](files/design-studio-1-report.pdf)
-- [Process Documentation](files/design-studio-1-process.md)
