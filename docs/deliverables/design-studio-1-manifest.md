@@ -132,4 +132,4 @@ Fill your stomach and let us take a bite.
 
 ---
 
-*This manifest reflects my current understanding and will evolve as I continue my journey in the MDEF program.*
+*This manifest reflects my current interests and will evolve as I continue my journey in the MDEF program.*
