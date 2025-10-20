@@ -120,8 +120,6 @@ A few observations:
 
 ## Links and Resources
 
-*Add your relevant links here:*
-
 - [AttentionLogger (v2) Apple Shortcut](https://www.icloud.com/shortcuts/af45515ee8d244cdb60e6a28cfb3754a)
-- [Google Sheet that feed the Google My Map](https://docs.google.com/spreadsheets/d/1zmye-VTmhFK7W_nB7XMJ20y3600AFGHI_Bu7LsOOa_k/edit?usp=sharing)
+- [Google Sheet that feeds the Google My Map](https://docs.google.com/spreadsheets/d/1zmye-VTmhFK7W_nB7XMJ20y3600AFGHI_Bu7LsOOa_k/edit?usp=sharing)
 - [Conversation with ChatGPT](https://chatgpt.com/share/68f4debd-4e98-8009-9876-495a71378d84)
