@@ -1,4 +1,4 @@
-# Design Studio 1 - October 20th
+# Design Studio 1 - Context
 
 ## Overview
 
