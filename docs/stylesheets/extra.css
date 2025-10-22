@@ -233,20 +233,23 @@
 }
 
 .barcelona-clock {
-    top: 15%;
-    left: 5%;
+    top: 50%;
+    left: 15%;
+    transform: translateY(-50%);
     animation-delay: 0s;
 }
 
 .montreal-clock {
-    top: 25%;
-    right: 8%;
+    top: 50%;
+    right: 15%;
+    transform: translateY(-50%);
     animation-delay: 2.5s;
 }
 
 .sanfrancisco-clock {
-    bottom: 20%;
-    left: 12%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) translateY(120px);
     animation-delay: 5s;
 }
 
@@ -260,7 +263,13 @@
     min-width: 140px;
     text-align: center;
     transition: all 0.3s ease;
-    cursor: pointer;
+    cursor: grab;
+    user-select: none;
+    position: relative;
+}
+
+.clock-widget:active {
+    cursor: grabbing;
 }
 
 .clock-widget:hover {
@@ -360,18 +369,21 @@
     
     /* Adjust clock positions for mobile */
     .barcelona-clock {
-        top: 10%;
-        left: 2%;
+        top: 50%;
+        left: 5%;
+        transform: translateY(-50%);
     }
     
     .montreal-clock {
-        top: 20%;
-        right: 2%;
+        top: 50%;
+        right: 5%;
+        transform: translateY(-50%);
     }
     
     .sanfrancisco-clock {
-        bottom: 15%;
-        left: 2%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) translateY(100px);
     }
     
     .clock-widget {
