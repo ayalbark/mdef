@@ -40,3 +40,198 @@
     font-weight: 300;
     font-size: 14px;
 }
+
+/* Interactive Homepage Styles */
+.hero-section {
+    text-align: center;
+    padding: 2rem 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.animated-title {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    background: linear-gradient(45deg, #0cf0be, #00b4d8, #0077b6);
+    background-size: 300% 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: gradientShift 3s ease-in-out infinite, textGlow 2s ease-in-out infinite alternate;
+    text-shadow: 0 0 20px rgba(12, 240, 190, 0.3);
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+@keyframes textGlow {
+    0% { text-shadow: 0 0 20px rgba(12, 240, 190, 0.3), 0 0 40px rgba(0, 180, 216, 0.2); }
+    100% { text-shadow: 0 0 30px rgba(12, 240, 190, 0.6), 0 0 60px rgba(0, 180, 216, 0.4); }
+}
+
+.profile-container {
+    position: relative;
+    display: inline-block;
+    margin: 2rem 0;
+}
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #0cf0be;
+    box-shadow: 0 0 30px rgba(12, 240, 190, 0.4);
+    transition: all 0.3s ease;
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0px) rotate(0deg); }
+    50% { transform: translateY(-10px) rotate(2deg); }
+}
+
+.profile-image:hover {
+    transform: scale(1.1) rotate(5deg);
+    box-shadow: 0 0 50px rgba(12, 240, 190, 0.8);
+    border-color: #00b4d8;
+}
+
+.animated-text {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 0 auto;
+    color: #333;
+    animation: fadeInUp 1s ease-out;
+    position: relative;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.interactive-section {
+    margin-top: 4rem;
+    padding: 3rem 0;
+    background: linear-gradient(135deg, rgba(12, 240, 190, 0.05), rgba(0, 180, 216, 0.05));
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.glowing-text {
+    font-size: 2.5rem;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #2c3e50;
+    text-shadow: 0 0 20px rgba(12, 240, 190, 0.3);
+    animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+}
+
+.floating-elements {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.floating-circle {
+    position: absolute;
+    border-radius: 50%;
+    background: linear-gradient(45deg, #0cf0be, #00b4d8);
+    opacity: 0.1;
+    animation: floatAround 6s ease-in-out infinite;
+}
+
+.circle-1 {
+    width: 80px;
+    height: 80px;
+    top: 20%;
+    left: 10%;
+    animation-delay: 0s;
+}
+
+.circle-2 {
+    width: 120px;
+    height: 120px;
+    top: 60%;
+    right: 15%;
+    animation-delay: 2s;
+}
+
+.circle-3 {
+    width: 60px;
+    height: 60px;
+    top: 40%;
+    left: 70%;
+    animation-delay: 4s;
+}
+
+@keyframes floatAround {
+    0%, 100% { 
+        transform: translateY(0px) translateX(0px) rotate(0deg);
+        opacity: 0.1;
+    }
+    25% { 
+        transform: translateY(-20px) translateX(10px) rotate(90deg);
+        opacity: 0.3;
+    }
+    50% { 
+        transform: translateY(-10px) translateX(-15px) rotate(180deg);
+        opacity: 0.2;
+    }
+    75% { 
+        transform: translateY(-30px) translateX(5px) rotate(270deg);
+        opacity: 0.4;
+    }
+}
+
+/* Hover effects for interactive elements */
+.hero-section:hover .animated-title {
+    animation-duration: 1s;
+}
+
+.hero-section:hover .profile-image {
+    animation-duration: 1s;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .animated-title {
+        font-size: 2.5rem;
+    }
+    
+    .profile-image {
+        width: 150px;
+        height: 150px;
+    }
+    
+    .glowing-text {
+        font-size: 2rem;
+    }
+    
+    .animated-text {
+        font-size: 1rem;
+        padding: 0 1rem;
+    }
+}
