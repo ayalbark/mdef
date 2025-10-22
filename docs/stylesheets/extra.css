@@ -215,6 +215,129 @@
     animation-duration: 1s;
 }
 
+/* Floating Clock Widgets */
+.clock-widgets {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    pointer-events: none;
+    z-index: 1000;
+}
+
+.clock-container {
+    position: absolute;
+    pointer-events: auto;
+    animation: floatClock 8s ease-in-out infinite;
+}
+
+.barcelona-clock {
+    top: 15%;
+    left: 5%;
+    animation-delay: 0s;
+}
+
+.montreal-clock {
+    top: 25%;
+    right: 8%;
+    animation-delay: 2.5s;
+}
+
+.sanfrancisco-clock {
+    bottom: 20%;
+    left: 12%;
+    animation-delay: 5s;
+}
+
+.clock-widget {
+    background: linear-gradient(135deg, rgba(12, 240, 190, 0.95), rgba(0, 180, 216, 0.95));
+    border-radius: 20px;
+    padding: 1rem 1.5rem;
+    box-shadow: 0 8px 32px rgba(12, 240, 190, 0.3);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    min-width: 140px;
+    text-align: center;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.clock-widget:hover {
+    transform: scale(1.1) translateY(-5px);
+    box-shadow: 0 12px 40px rgba(12, 240, 190, 0.5);
+    background: linear-gradient(135deg, rgba(12, 240, 190, 1), rgba(0, 180, 216, 1));
+}
+
+.clock-header {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 0.5rem;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    letter-spacing: 0.5px;
+}
+
+.clock-time {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: white;
+    font-family: 'Cutive Mono', monospace;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+    margin-bottom: 0.3rem;
+    letter-spacing: 1px;
+}
+
+.clock-date {
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 500;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+@keyframes floatClock {
+    0%, 100% { 
+        transform: translateY(0px) translateX(0px) rotate(0deg);
+    }
+    25% { 
+        transform: translateY(-15px) translateX(10px) rotate(1deg);
+    }
+    50% { 
+        transform: translateY(-8px) translateX(-5px) rotate(-1deg);
+    }
+    75% { 
+        transform: translateY(-20px) translateX(8px) rotate(0.5deg);
+    }
+}
+
+/* Clock pulse animation */
+.clock-widget::before {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: linear-gradient(45deg, #0cf0be, #00b4d8, #0077b6);
+    border-radius: 22px;
+    z-index: -1;
+    opacity: 0;
+    animation: clockPulse 3s ease-in-out infinite;
+}
+
+@keyframes clockPulse {
+    0%, 100% { 
+        opacity: 0;
+        transform: scale(1);
+    }
+    50% { 
+        opacity: 0.3;
+        transform: scale(1.05);
+    }
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .animated-title {
@@ -233,5 +356,44 @@
     .animated-text {
         font-size: 1rem;
         padding: 0 1rem;
+    }
+    
+    /* Adjust clock positions for mobile */
+    .barcelona-clock {
+        top: 10%;
+        left: 2%;
+    }
+    
+    .montreal-clock {
+        top: 20%;
+        right: 2%;
+    }
+    
+    .sanfrancisco-clock {
+        bottom: 15%;
+        left: 2%;
+    }
+    
+    .clock-widget {
+        min-width: 120px;
+        padding: 0.8rem 1rem;
+    }
+    
+    .clock-time {
+        font-size: 1.5rem;
+    }
+    
+    .clock-header {
+        font-size: 0.8rem;
+    }
+    
+    .clock-date {
+        font-size: 0.7rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .clock-widgets {
+        display: none; /* Hide clocks on very small screens to avoid clutter */
     }
 }
