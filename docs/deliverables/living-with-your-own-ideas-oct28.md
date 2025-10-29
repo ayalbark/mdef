@@ -1,6 +1,6 @@
 # Living With Your Own Ideas - October 28
 
-## Prototypes 
+## Prototypes to "become the best version of yourself"
 
 **Tunnel Vision Prosthesis**
 
