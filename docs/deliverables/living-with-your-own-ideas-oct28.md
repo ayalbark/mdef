@@ -10,9 +10,9 @@ Tunnel Vision is a head-mounted facial extension that narrows my visual field to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r3Z4H72lIJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<img src="images/TV-side1.JPG" width="200px" alt="Tunnel Vision Prosthesis - Side View 1">
-<img src="images/TV-front.JPG" width="200px" alt="Tunnel Vision Prosthesis - Front View">
-<img src="images/TV-side2.JPG" width="200px" alt="Tunnel Vision Prosthesis - Side View 2">
+![Tunnel Vision Prosthesis - Side View 1](../images/TV-side1.JPG)
+![Tunnel Vision Prosthesis - Front View](../images/TV-front.JPG)
+![Tunnel Vision Prosthesis - Side View 2](../images/TV-side2.JPG)
 
 **Navigation Band Prosthesis**
 
@@ -20,17 +20,17 @@ The Navigation Band is a vibrating headband that points toward my destination, t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wwhrVuCyCjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<img src="images/NV-side1.JPG" width="200px" alt="Navigation Band Prosthesis - Side View 1">
-<img src="images/NB-front.JPG" width="200px" alt="Navigation Band Prosthesis - Front View">
-<img src="images/NV-side2.JPG" width="200px" alt="Navigation Band Prosthesis - Side View 2">
+![Navigation Band Prosthesis - Side View 1](../images/NV-side1.JPG)
+![Navigation Band Prosthesis - Front View](../images/NB-front.JPG)
+![Navigation Band Prosthesis - Side View 2](../images/NV-side2.JPG)
 
 **Solarlink Prosthesis**
 
 Solarlink is an exo-organ wristband that connects to an outdoor light sensor and wakes me through gentle vibration when the sun reaches a chosen brightness, reconnecting my circadian rhythm to the sun's cycles.
 
-<img src="images/SL-side1.JPG" width="200px" alt="Solarlink Prosthesis - Side View 1">
-<img src="images/SL-front.JPG" width="200px" alt="Solarlink Prosthesis - Front View">
-<img src="images/SL-side2.JPG" width="200px" alt="Solarlink Prosthesis - Side View 2">
+![Solarlink Prosthesis - Side View 1](../images/SL-side1.JPG)
+![Solarlink Prosthesis - Front View](../images/SL-front.JPG)
+![Solarlink Prosthesis - Side View 2](../images/SL-side2.JPG)
 
 
 ## Next Steps
