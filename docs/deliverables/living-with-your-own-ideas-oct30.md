@@ -25,11 +25,9 @@ This exercise made me realize how hard it is to retrace our own memory. So much 
 
 I did a pretty bad job being a sly detective. My subject (Heba) figured out pretty quickly that I was following her. 
 
-Her prosthesis of choice was a role of blue tape. At first glance it didn't give me much to work with in terms of judging her, so I decided to pay attention to her behavior.
+Her prosthesis of choice was a role of blue tape. At first glance it didn't give me much to work with in terms of judging her, so I decided to pay attention to her words and behavior.
 
 ![Heba tape 1](../images/HebaTape1.JPG)
-
-I think that the tape was purely aesthetic. She never used it once to tape anything. Instead, it was a symbol of how she wanted to be observed: as someone who sticks with things and brings others close to her.
 
 First she talked about wanting to bring lunch to class, so she ended up cooking for 3 hours the night before, even though it would have been easier to just buy lunch. Sounds like something someone who sticks with things would do.
 
@@ -44,6 +42,8 @@ Then I watched how she engaged others who walked by us. Every time someone enter
 ![Heba & Lo ](../images/HebaLo.JPG)
 
 Also, for the entire observational period, I realized that I was always within a few feet of her. Some other detectives' strategies were to follow at a distance. The second Heba put on the roll of tape I walked up to her and was stuck for the whole session. Even after the exercise was over I ended up moving from my previous seat to sit next to her for the rest of the day.
+
+I think that the tape was purely aesthetic. She never used it once to tape anything. Instead, it was a symbol of how she wanted to be observed: as someone who sticks with things and brings others close to her.
 
 
 
