@@ -29,13 +29,13 @@ Her prosthesis of choice was a role of blue tape. At first glance it didn't give
 
 ![Heba tape 1](../images/HebaTape1.JPG)
 
-I think that the tape was purely aesthetic. She never used it once to tape anything. Instead, it was a symbol of how she wanted to be observed - as someone who sticks w/ things and brings others closer.
+I think that the tape was purely aesthetic. She never used it once to tape anything. Instead, it was a symbol of how she wanted to be observed: as someone who sticks with things and brings others close to her.
 
-First she talked about wanting to bring lunch to class, so she ended up cooking for 3 hours the night before, even though it would have been easier to just buy lunch. Sounds like something someone who sticks w/ things would do.
+First she talked about wanting to bring lunch to class, so she ended up cooking for 3 hours the night before, even though it would have been easier to just buy lunch. Sounds like something someone who sticks with things would do.
 
 ![Heba tape 2](../images/HebaTape2.JPG)
 
-Then she talked about the struggles she was having w/ her website, and how despite them all she was determined to get it up and running. 
+Then she talked about the struggles she was having with her website, and how despite them all she was determined to get it up and running. 
 
 ![Heba tape 3](../images/HebaTape3.JPG)
 
