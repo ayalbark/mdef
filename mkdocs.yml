@@ -10,13 +10,14 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 nav:
   - Home: index.md
-  - About: about/me.md
   - Design Space: design-space.md
   - Master project:
       - Initial ideas: project/project.md
   - Deliverables:
-      - Design Studio 1 - Context: deliverables/design-studio-1.md
-      - Design Studio 1 (Manifest): deliverables/design-studio-1-manifest.md
+      - Design Studio 1:
+          - Context: deliverables/design-studio-1.md
+          - Manifest: deliverables/design-studio-1-manifest.md
+          - Actions: deliverables/design-studio-1-actions.md
       - Living With Your Own Ideas:
           - October 28: deliverables/living-with-your-own-ideas-oct28.md
           - October 29: deliverables/living-with-your-own-ideas-oct29.md
