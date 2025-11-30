@@ -2,6 +2,8 @@
 
 ## ATTENTION ECONOMY - A COLLECTIVE DÉRIVE
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hNOFLryQHRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **SUMMARY**  
 This is a walking Dérive played by a group. One person is the Leader, who chooses where to go. The others take on roles that override the Leader’s decisions using specific rules. Each role represents a distinct force acting on human attention and can intervene only under defined conditions. Together, these interventions create a live “attention battlefield,” revealing how intention, disruption, and recovery unfold collectively in real time.
 
