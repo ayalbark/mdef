@@ -2,6 +2,10 @@
 
 ## ATTENTION ECONOMY - A COLLECTIVE DÉRIVE
 
+**MAP OF ATTENTION ECONOMY COLLECTIVE DÉRIVE - BARCELONA, SPAIN - NOV 30, 2025**
+![map](../images/AEDmap.jpg)
+
+**AUDIOVISUAL ESSAY**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hNOFLryQHRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **SUMMARY**  
