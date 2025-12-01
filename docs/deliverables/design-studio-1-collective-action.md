@@ -152,6 +152,97 @@ After the dérive is complete, map the path and compare:
 - Intended directions & actual paths  
 - Moments of strongest interventions 
 
+##ROLE CARDS
+**LEADER**  
+Holds a clear direction while others disrupt, reroute, or intoxicate attention.  
+
+<ins>Represents:</ins> focused intention in a field of competing forces.  
+
+<ins>Responsibilities:</ins>  
+- Choose a cardinal direction at the start  
+- Open your phone once to check where that direction is  
+- Tell only the Grounder  
+- Drop 3 pins each round:  
+(1) Start pin  
+(2) Target pin (~10 minutes in your chosen direction)  
+(3) End pin  
+- Try to maintain your direction  
+- Comply with all role actions  
+
+**HIJACKER**  
+Creates sudden interruptions that snaps the leader off their path.  
+
+<ins>Represents:</ins> algorithmic interruptions like ads, notifications, and other prompts that abruptly seize attention and redirect intention.  
+
+Triggers:  
+- Any advertisement  
+- Bright screens  
+- Flashing/moving images  
+- Anyone in the group using their phone  
+- Sudden sensory pops  
+
+<ins>Commands:</ins>  
+- “Turn this way now.” (point in any new direction)  
+- “Go toward that.” (point at the trigger)  
+
+<ins>Uses:</ins> Up to 3× per round  
+
+**OPTIMIZER**  
+Nudges the leader toward the most efficient or frictionless route.  
+
+<ins>Represents:</ins> routing algorithms, recommendation systems, and defaults that steer users toward efficient, predictable paths.  
+
+<ins>Triggers:</ins>  
+- Multiple paths appear (corners, forks)  
+- Leader hesitates or slows  
+- One route is clearly more efficient  
+- Passing a large group/crowd  
+
+<ins>Commands:</ins>  
+- “Take the more efficient route.” (point to route)  
+- “Follow that flow of people.” (point; ~1 min)  
+
+<ins>Uses:</ins> up to 3× per round  
+
+**DOOMSCROLLER**  
+Pulls the group into overstimulation and immersive sensory drift.  
+
+<ins>Represents:</ins> infinite scroll, autoplay, sensory overload.  
+
+<ins>Triggers:</ins>  
+
+*Act only after a Hijacker or Optimization command*
+- Bright/neon lights  
+- Ads, bars, alcohol, music  
+- Glowing screens  
+- Crowds    
+- Sensory overload or repetition  
+
+<ins>Commands (choose one):</ins>  
+- “Go toward that.” (point to strongest stimulus)  
+- Lead the group into a dense / loud / bright zone  
+
+<ins>Uses:</ins> up to 3× per round  
+
+**GROUNDER**  
+Resets the group through embodiment, then restores direction.  
+
+<ins>Represents:</ins> presence, reconnection, intentionality.  
+
+<ins>Triggers:</ins>  
+
+*Act after any intervention by:*  
+- Hijacker  
+- Optimizer  
+- Doomscroller  
+
+<ins>Commands (all 3):</ins>  
+- Give a grounding cue (“Feel your feet,” “Touch this surface,” etc.)  
+- Check your phone’s compass  
+- Point and lead group back toward the Leader’s original direction  
+
+<ins>Uses:</ins> up to 2× per round  
+
 
 ## Reflection
 
