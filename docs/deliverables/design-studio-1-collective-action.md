@@ -155,9 +155,7 @@ After the dérive is complete, map the path and compare:
 
 ## Reflection
 
-*Reflect on the experience and what was learned through this collective action.*
+I need to add some thoughts here....still thinking.
 
-## Next Steps
 
-*What comes next based on this collective action?*
 
