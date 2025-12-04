@@ -2,6 +2,8 @@
 
 ## Overview
 
+![mackbook](/docs/images/macbook1.jpg)
+
 **Forensic Report**  
 [Forensic Report: Apple Macbook (13 inch, late 2009)](https://hackmd.io/pONF3MmaScOIxqd7tCS_6A?view#Component-Datasheets)  
 
