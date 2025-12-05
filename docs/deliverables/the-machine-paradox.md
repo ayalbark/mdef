@@ -2,12 +2,16 @@
 
 ## Overview
 
-![mackbook](/docs/images/macbook1.jpg)
+![mackbook](../images/macbook1.jpg)
 
 **Forensic Report**  
+This forensic report outlines key details from the examination and testing procedures we took while disassembling the Macbook.
+
 [Forensic Report: Apple Macbook (13 inch, late 2009)](https://hackmd.io/pONF3MmaScOIxqd7tCS_6A?view#Component-Datasheets)  
 
 **Inventory (Component Datasheets)**  
+These datasheets provide functional insights, technical details, some example code, and wiring guidance for anyone who would like to use these components in a Macbook they have disassembled themselves. 
+
 Unfortunately for us, we learned that Apple's products are not very "hackable", meaning there aren't many components we were able to take out and use. While it was extremely satisfying to get to peek under the hood of such an iconic piece of tech, it was ultimately a little anti-climactic at this step. Here are the datasheets of the two components we were able to make work:  
 
 [DC Brushless Laptop Fan](https://hackmd.io/dpL_RwwtT1ytSJxxy6_43w)  

@@ -3,7 +3,7 @@
 ## Overview  
 
 **Meluza**
-![Meluzapic](/docs/images/Meluza1.jpg)
+![Meluzapic](../images/Meluza1.jpg)
 
 The name Meluza is a play on words of the Spanish "Medusa" which refers to both the mythical character and jellyfish, and "luz" which means light. 
 
@@ -28,4 +28,9 @@ I spent a lot of time on the electronics and inputs/outputs side of the project 
 
 ## Zine
 
+![Zine page 1](../images/Zine pg1-min.JPG)  
+![Zine pages 2-3](../images/Zine pg2-3-min.JPG)  
+![Zine pages 4-5](../images/Zine pg4-5-min.JPG)  
+![Zine pages 6-7](../images/Zine pg6-7-min.JPG)  
+![Zine page 8](../images/Zine pg8-min.JPG)  
 
