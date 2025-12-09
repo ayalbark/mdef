@@ -5,6 +5,7 @@ hide:
 
 # Atlas of Weak Signals
 
+The Atlas of Weak Signals is a deck of cards to detect trends before they become trends
 My group's addition to the Atlas of Weak Signals ecosystem is **Poisin Pilling**
 
 
@@ -19,3 +20,4 @@ We then asked ChatGPT how it felt about this practice. [Here is the link to its 
 Group Members:
 Beste, Ayal, Agnese, Max, Heba, Aiman
 
+![poisonpillpic](/docs/images/poisonpill.jpg)
