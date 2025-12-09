@@ -6,12 +6,12 @@ hide:
 # Atlas of Weak Signals
 
 The Atlas of Weak Signals is a deck of cards to detect trends before they become trends
-My group's addition to the Atlas of Weak Signals ecosystem is **Poisin Pilling**
+My group's addition to the Atlas of Weak Signals ecosystem is **Poison Pilling**  
 
 
-# Poison Pilling
+# Poison Pilling  
 
-Description: Poison pilling (or data poisoning) is the deliberate insertion of malicious, misleading, or corrupted data into datasets used to train machine learning or AI models. The goal is to “poison” the model’s learning process so it behaves incorrectly, produces biased or nonsensical outputs, or even leaks sensitive data.
+Description: Poison pilling (or data poisoning) is the deliberate insertion of malicious, misleading, or corrupted data into datasets used to train machine learning or AI models. The goal is to “poison” the model’s learning process so it behaves incorrectly, produces biased or nonsensical outputs, or even leaks sensitive data.  
 
 *the definition was copied from ChatGPT when asked: “Do you know what poison pilling is as it relates to putting in data that messed up ai data training?”  
 
@@ -20,4 +20,4 @@ We then asked ChatGPT how it felt about this practice. [Here is the link to its 
 Group Members:
 Beste, Ayal, Agnese, Max, Heba, Aiman
 
-![poisonpillpic](/docs/images/poisonpill.jpg)
+![poisonpillpic](../images/poisonpill.jpg)
