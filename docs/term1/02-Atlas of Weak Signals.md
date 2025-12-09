@@ -21,3 +21,5 @@ Group Members:
 Beste, Ayal, Agnese, Max, Heba, Aiman
 
 ![poisonpillpic](../images/poisonpill.jpg)
+![poisonpill2](../images/poisonpill2.jpg)
+![aows](../images/aowscards.jpg)
