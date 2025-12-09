@@ -5,6 +5,17 @@ hide:
 
 # Atlas of Weak Signals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My group's addition to the Atlas of Weak Signals ecosystem is **Poisin Pilling**
 
-![](../images/MT01/scorpio_blow.jpg)
+
+# Poison Pilling
+
+Description: Poison pilling (or data poisoning) is the deliberate insertion of malicious, misleading, or corrupted data into datasets used to train machine learning or AI models. The goal is to “poison” the model’s learning process so it behaves incorrectly, produces biased or nonsensical outputs, or even leaks sensitive data.
+
+*the definition was copied from ChatGPT when asked: “Do you know what poison pilling is as it relates to putting in data that messed up ai data training?”  
+
+We then asked ChatGPT how it felt about this practice. [Here is the link to its response](https://chatgpt.com/share/6937e4f3-3b4c-8009-a287-3997a9f7259c). 
+
+Group Members:
+Beste, Ayal, Agnese, Max, Heba, Aiman
+
