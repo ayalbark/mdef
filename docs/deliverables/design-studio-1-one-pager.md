@@ -1,6 +1,6 @@
 # One Pager
 
-**Attention in Motion**
+**Attention in Motion**  
 *Constraint-based practices for observing and shaping attention*
 
 In the attention economy, human attention is treated as a resource to be extracted. Platforms, products, and media are designed to capture attention by any means necessary, shaping what people notice, and how they relate to the world. The effects of this are widespread. Many people report feeling distracted and overwhelmed, while at a larger scale attention is steered in ways that influence politics, culture, and power. Weak signals from the previous AOWS deck such as technofascism and extractivism point to futures where attention is controlled through infrastructures built to extract value. I’m adding another weak signal, attention wars, to describe the growing struggle over who gets to shape what we attend to. This project matters now because if we do not learn how to direct our own attention, it will be directed by those who seek to use it for power and profit.  
