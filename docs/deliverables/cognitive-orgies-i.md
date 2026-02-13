@@ -21,7 +21,9 @@ We decided to go home and think about what a better fit would be. We returned th
 
 We situated the exo-organ within a speculative future in which the world's topsoil has been depleted and there has been mass ecological extinction. The remaining survivors rely on their compost piles to grow the food that keeps them alive. We used an "excerpt" from a textbook written in the year 2190 AD to contextualize the project.   
 
-## Excerpt From the Introductory Textbook "Post-Collapse Civilizations: The Emergence of the Compborg Lineage" (Written in the Year 2190 AD):  
+## Textbook Excerpt
+
+**Excerpt From the Introductory Textbook "Post-Collapse Civilizations: The Emergence of the Compborg Lineage" (Written by Dr. Zogar Vivatierra in the Year 2190 AD)**
 
 After the Global Topsoil Depletion of 2080, agricultural supply chains stalled, then collapsed. Crop failures cascaded across continents, famine redrew borders, and mass extinction accelerated beyond prediction. Many nations turned to hydroponics and aquaponics, but over time the absence of soil-based microbial ecologies led to widespread immune disorders.  
 
@@ -31,5 +33,23 @@ A group of designers in the The Iberian Autonomous Survival Regions began to que
 
 What began as a fringe practice spread across regions, in part because these communities produced more stable soil and more resilient food systems. The devices, soon known as the Second Spine, became integral to daily life. They were repaired, modified, and passed down alongside compost itself, which families maintained across generations as both inheritance and responsibility. Children were gifted their first Second Spine once they learned to walk. Over time, the distinction between human and compost blurred. Compost lineage and family lineage became intertwined. From this entanglement emerged a new species. Historians would later name them Compborgs, the first Homo sapiens to abandon the boundary between body and soil.  
 
+## Mapping Traces 
+
+### Cognitive traces  
+
+- Letting ourselves not be attached to the Smartass concept and find a better conceptual fit.  
+- Switching from using the proprietary Parrot Flower Power Sensor to a more simple and accessible soil moisture sensor.  
+- Thinking that I wouldn't be able to set up the motors to work independently, and then taking the time to read about transistors and how to include them to accomplish this.  
+- Learning how to get two raspberry pi pico 2 ws to communicate with each other over wifi.  
+- Learning that the most common reason something wasn't working was because I was going too fast: rushing through and not replacing the IP address in old code, plugging a wire to the wrong pin, etc.  
+
+### Moral Traces   
+
+- Division of labor was super helpful, but we had to stay in active communication to make sure that we weren't straying too far from the shared vision.  
+- Having to pivot on our physical prototype process when another group decided to use the 3D printer for 5 hours during the school day, and the printers in the lab were all occupied. We made it work!  
 
 
+### Technical Traces   
+
+- Learning how to use AI to code. You can NOT ask it to build your project from scratch. We had to iterate from the smallest MVP and slowly add more functionality. Trying to prompt the whole thing at once never worked. 
+- There are long wires available in the Fablab. It's not necessary to cut and solder together a bunch of jumper wires. It's fun though. Especially adding the heat shrink on top. 
