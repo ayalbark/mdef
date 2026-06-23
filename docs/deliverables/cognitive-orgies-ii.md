@@ -1,6 +1,6 @@
 # Cognitive Orgies II
 
-## [Link to hacker.io project](https://www.hackster.io/545047/stocksense-610f0b)
+## [Link to hackerster.io project](https://www.hackster.io/545047/stocksense-610f0b)
 
 ![compborg](../images/stocksense1.JPG)
 
