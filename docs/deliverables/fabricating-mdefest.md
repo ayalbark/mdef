@@ -54,6 +54,8 @@ Like the AI failure, the broken mic interrupted the smooth fantasy of fabricatio
 
 ## Performing ECHO at MDEFEST
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/-ELdLRP-6rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 For MDEFEST, I did not want people to just look at ECHO on a table. The project only makes sense when someone wears it, loses visual certainty, and has to negotiate space through sound, vibration, and another person's presence.
 
 I set up a partner activity. One person wore the device and was blindfolded. Their partner held a movable wall, which was also a poster explaining the project. Before each round, I drew a route on the ground with chalk. The partner with the poster-wall had to direct the blindfolded participant along the route using the poster-wall to create an echo target to guide them through the space.
